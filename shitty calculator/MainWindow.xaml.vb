@@ -12,7 +12,7 @@
         Catch ex As System.InvalidCastException
 
             MessageBox.Show("Please enter numbers only",
-                            "Error")
+                            "Error!!!")
 
             Console.WriteLine("An error occured")
 
